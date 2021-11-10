@@ -1,0 +1,123 @@
+.p1 {
+    text-align: center;
+    padding-top: 10px;
+}
+.ml {
+    margin-left: auto;
+    margin-right: auto;
+}
+.italicTitle {
+  color: #F88F01;
+}
+#upperpart {
+  background-color: #2B2B2B;
+}
+.titlecolor {
+  color: #EEEEEE;
+}
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+.navbar-brand{
+  font-size: 1.8rem;
+  font-weight: normal;
+}
+.nbt {
+  color: #EEEEEE;
+}
+.f123 {
+    background-color: #2B2B2B;
+}
+body {
+  background-color: red;
+  font-family: "Montserrat";
+}
+ .navbar-nav {
+   padding-right: 80px;
+ }
+ 
+
+   /* Baner Content */
+
+.row-content {
+text-align: center;
+padding-top: 70px;
+}
+
+.banner-content {
+  padding: 5%;
+}
+
+.banner-text {
+  color:  #EEEEEE;
+  font-family: 'Lora', serif;
+
+}
+#Banner {
+  background-color: #423F3E;
+}
+
+/* Carusel Section */
+
+#Carusel {
+  background-color: #F7F7F7;
+}
+
+.carusel-imgs {
+height: 25%;
+width: 70%;
+}
+
+.car-content {
+padding-top: 10px;
+padding-bottom: 10px;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
